@@ -1,0 +1,2 @@
+Mở File Scanproxy lên sau đó nó sẽ tự scan 
+r sao chép proxy cho vào file proxy Rồi mở file tools ddos lên máy yếu sẽ yếu vì là script
